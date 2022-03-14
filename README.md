@@ -1,2 +1,2 @@
 # H2-Portfolio
-Repository for the second homework assignment of the GT Coding Bootcamp
+Beginner's Portfolio for Kirk Bailey, Aspiring Full-Stack Developer.
